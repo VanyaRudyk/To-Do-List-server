@@ -1,0 +1,10 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "https://localhost:53655",
+"RedirectUrl": "",
+"LaunchCommand": "npm run dev",
+"WorkingDirectory": "D:\\My_Files\\Polytech\\!3 курс 1 семестр\\Веб-дизайн\\Coursework\\kursovaya\\kursovaya.Server\\..\\kursovaya.client",
+"MaxTimeoutInSeconds": "120",
+"KeepRunning": "false"
+}
+}
